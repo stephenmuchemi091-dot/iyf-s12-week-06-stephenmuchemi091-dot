@@ -1,1 +1,1 @@
-# iyf-s12-week-06-stephenmuchemi091-dot
+This week you'll master asynchronous programming - the key to working with APIs, handling user interactions, and building modern web applications.
